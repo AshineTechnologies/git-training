@@ -7,10 +7,8 @@ public class Training {
 		System.out.println("hi");
 	}
 
-	 public sample()
+	 public void sample()
 	 {
-		 
-		 System.out.println("im sample method"); 
-		 
+		 System.out.println("im sample method");  
 	 }
 }
