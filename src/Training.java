@@ -11,9 +11,8 @@ public class Training {
 	 public void sample()
 	 {
 
-		 
 		 System.out.println("sample method"); 
 			//sample comment2
-		
+
 	 }
 }
