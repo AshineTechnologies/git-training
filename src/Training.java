@@ -3,16 +3,11 @@ public class Training {
 
 	public static void main(String[] args) 
 	{
-		// TODO Auto-generated method stub
-		System.out.println("hello");
-		//sample comment1
+		System.out.println("Hello World!!");
 	}
 
 	 public void sample()
 	 {
-
 		 System.out.println("sample method"); 
-			//sample comment2
-
 	 }
 }
