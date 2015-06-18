@@ -10,4 +10,9 @@ public class Training {
 	 {
 		 System.out.println("sample method"); 
 	 }
+	 
+	 public void sample2()
+	 {
+		 System.out.println("sample method"); 
+	 }
 }
