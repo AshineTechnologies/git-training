@@ -7,4 +7,10 @@ public class Training {
 		System.out.println("hi");
 	}
 
+	 public sample()
+	 {
+		 
+		 System.out.println("im sample method"); 
+		 
+	 }
 }
